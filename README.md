@@ -9,7 +9,7 @@
 - Special focus on 3D web development using BABYLON.js, creating visually stunning and interactive 3D experiences that captivate users.
 
 
-- 💬 Ask me about **Vue, BabylonJS, Web 3D Development.**
+- 💬 Ask me about **Vue, Babylon.js, Three.js, Web 3D Development.**
 
 - 📫 How to reach me **nathanmultiple@gmail.com**
 
