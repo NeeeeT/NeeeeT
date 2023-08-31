@@ -1,17 +1,10 @@
-<h1 align="left">Nathan Cheng</h1>
-<h3 align="left">A passionate software developer from Taiwan</h3>
+<h3 align="left">Hi！ I'm Nathan Cheng,<br><br>A passionate software developer from Taiwan 👋</h3><br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeeet&label=Profile%20views&color=0e75b6&style=flat" alt="neeeet" /> </p> -->
 
-- Skilled in modern front-end technologies, including HTML, CSS, JavaScript, and TypeScript
-- Expertise in Git and AWS services for efficient web application deployment
-- Experienced in building scalable web applications with Vue.js, Nuxt.js, Astro.js
-- Special focus on 3D web development using BABYLON.js, Three.js
+<img width="928" alt="截圖 2023-09-01 上午1 20 29" src="https://github.com/NeeeeT/NeeeeT/assets/37738465/910ab53d-bf99-4589-b43d-4dce511ae991">
 
-
-- 💬 Ask me about **Vue, Babylon.js, Three.js.**
-
-- 📫 How to reach me **nathanmultiple@gmail.com**
+- 📫 reach me： **nathanmultiple@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
