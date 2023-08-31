@@ -3,10 +3,10 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeeet&label=Profile%20views&color=0e75b6&style=flat" alt="neeeet" /> </p> -->
 
-- Skilled in modern front-end techs susch as HTML, CSS, JavaScript, and TypeScript.
-- Expertise in AWS Cloud services for efficient web application deployment.
-- Experienced in building scalable web applications with Vue.js, Nuxt.js, Astro.js.
-- Special focus on 3D web development.
+- Skilled in modern front-end technologies, including HTML, CSS, JavaScript, and TypeScript
+- Expertise in Git and AWS services for efficient web application deployment
+- Experienced in building scalable web applications with Vue.js, Nuxt.js, Astro.js
+- Special focus on 3D web development using BABYLON.js, Three.js
 
 
 - 💬 Ask me about **Vue, Babylon.js, Three.js.**
