@@ -1,5 +1,8 @@
 # 💫 About Me:
-- Skilled in modern front-end technologies, including HTML, CSS, JavaScript, and TypeScript<br>- Expertise in Git and AWS services for efficient web application deployment<br>- Experienced in building scalable web applications with Vue, React, Nuxt.js, Next.js, Astro.js<br>- Special focus on WebGL / 3D development using BABYLON.js, Three.js
+- Skilled in modern front-end technologies, including HTML, CSS, JavaScript, and TypeScript
+- Expertise in Git and AWS services for efficient web application deployment
+- Experienced in building scalable web applications with Vue, React, Nuxt.js, Next.js, Astro.js
+- Special focus on WebGL / 3D development using BABYLON.js, Three.js
 
 
 ## 🌐 Socials:
